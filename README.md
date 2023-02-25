@@ -36,7 +36,7 @@ Most of the variables in the dataset are categorical. Additionally, several feat
 
 # Classification Using Supervised Machine Learning
 ### **Approach:** 
-Multi-class classification was accomplished by implement linear, non-linear, and ensemble methods. A KNN Classifier and a Random Forest Model achieved the highest accuracy score.
+Multi-class classification was accomplished by implementing linear, non-linear, and ensemble methods. A KNN Classifier and a Random Forest Model achieved the highest accuracy score.
 
 **Linear & Non-linear Models**
 
