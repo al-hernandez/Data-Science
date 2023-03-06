@@ -9,9 +9,9 @@ Classification using supervised learning will be used to predict the functionali
 
 # Dataset
 ### **Source:** 
-This dataset was obtained from *DrivenData*, an organization that works to engage data scientists with social challenges.
+Two datasets were obtained from *DrivenData*, an organization that works to engage data scientists with social challenges.
 ### **Description:** 
-The first dataset contains 59,400 entries and 40 attributes, including a water pump’s funder, installer, subvillage, year of construction, and water quality. The second dataset matches each pump with an ID, and classifies each pump as either functional, functional but needs repair, and non functional.
+The first dataset, *WaterPumpObservations.csv*, contains 59,400 entries and 40 attributes, including a water pump’s funder, installer, subvillage, year of construction, and water quality. The second dataset, *WaterPumps.csv* matches each pump with an ID, and classifies each pump as either functional, functional but needs repair, and non functional.
 
 # Data Cleaning
 ### **Overview:** 
