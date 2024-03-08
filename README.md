@@ -1,5 +1,4 @@
-# MSDS-692-Practicum-I
-### **Title: Predicting the Functionality of Water Pumps in Tanzania**
+# **Title: Predicting the Functionality of Water Pumps in Tanzania**
 Based on data from the Tanzania Ministry of Water, the objective of this project is to identify the factors that influence water pump functionality, and predict which water-points will fail so that maintenance operations can be improved.
 
 Classification using supervised learning will be used to predict the functionality of water pumps. Additionally, data visualization will be employed to understand the factors that contribute to water pump failure.
